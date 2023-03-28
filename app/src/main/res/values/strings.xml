@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Hyeju Kim</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is HyeJu.</string>
+</resources>
